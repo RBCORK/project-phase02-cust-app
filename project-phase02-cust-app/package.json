@@ -1,6 +1,6 @@
 {
   "name": "phase02-cust-app",
-  "homepage":"https://RBCORK.github.io/project-phase02-cust-app",
+  "homepage":"https://rbcork.github.io/project-phase02-cust-app",
   "private": true,
   "dependencies": {
     "@testing-library/jest-dom": "^5.17.0",
